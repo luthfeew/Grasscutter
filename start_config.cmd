@@ -21,5 +21,5 @@ set SERVER_JAR_PATH=%CUR_PATH%
 set DATABASE_STORAGE_PATH=%CUR_PATH%resources\Database
 
 @rem Utility Name
-set SERVER_JAR_NAME=grasscutter.jar
+set SERVER_JAR_NAME=grasscutter-1.2.3-dev.jar
 set PROXY_SCRIPT_NAME=proxy
