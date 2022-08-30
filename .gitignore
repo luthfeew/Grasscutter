@@ -54,7 +54,7 @@ tmp/
 # Grasscutter
 /cache
 /logs
-/plugins
+/plugins/*/
 /data
 /keys
 /language
