@@ -552,5 +552,40 @@
                 "chance": 50
             }
         ]
+    },
+	{
+        "avatarId": 10000070,
+        "amountList": [
+            {
+                "value": 1,
+                "chance": 50
+            },
+            {
+                "value": 2,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "avatarId": 10000071,
+        "amountList": [
+            {
+                "value": 3,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "avatarId": 10000072,
+        "amountList": [
+            {
+                "value": 2,
+                "chance": 50
+            },
+            {
+                "value": 3,
+                "chance": 50
+            }
+        ]
     }
 ]
