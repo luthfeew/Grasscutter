@@ -25,30 +25,6 @@ public class PacketPlayerWorldSceneInfoListNotify extends BasePacket {
                 )
                 .addInfoList(
                         PlayerWorldSceneInfo.newBuilder()
-                                .setSceneId(3)
-                                .setIsLocked(false)
-                                .addSceneTagIdList(102)
-                                .addSceneTagIdList(113)
-                                .addSceneTagIdList(117)
-                                .addSceneTagIdList(1093)
-                                .addSceneTagIdList(1126)
-                                .addSceneTagIdList(1137)
-                                .addSceneTagIdList(1138)
-                                .addSceneTagIdList(1139)
-                                .addSceneTagIdList(1140)
-                                .addSceneTagIdList(1141)
-                                .addSceneTagIdList(1162)
-                                .addSceneTagIdList(1164)
-                                .addSceneTagIdList(1166)
-                                .addSceneTagIdList(1168)
-                                .addSceneTagIdList(1169)
-                                .addSceneTagIdList(1170)
-                                .addSceneTagIdList(1183)
-                                .addSceneTagIdList(1184)
-                                .build()
-                )
-                .addInfoList(
-                        PlayerWorldSceneInfo.newBuilder()
                                 .setSceneId(4)
                                 .setIsLocked(false)
                                 .addSceneTagIdList(106)
@@ -79,10 +55,16 @@ public class PacketPlayerWorldSceneInfoListNotify extends BasePacket {
                 .setSceneId(9)
                 .setIsLocked(false);
 
+        var pyramid = PlayerWorldSceneInfo.newBuilder()
+                .setSceneId(3)
+                .setIsLocked(false);
+
         for (int i = 0; i < 3000; i++) {
             gaa.addSceneTagIdList(i);
+            pyramid.addSceneTagIdList(i);
         }
 
+        proto.addInfoList(pyramid);
         proto.addInfoList(gaa);
 
         this.setData(proto);
