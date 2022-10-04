@@ -4,14 +4,14 @@
             "$type": "ConfigEffectAttachSkinnedMesh",
             "FGKBBEGGKCB": "EffectMesh"
         },
-        "mass": 10.0,
-        "secondHeight": 1.7827999591827393,
-        "OPCPJOJAOOE": 1.7300000190734863,
+        "mass": 10.0,//质量
+        "secondHeight": 1.7827999591827393,//身高
+        "OPCPJOJAOOE": 1.7300000190734863,//？？？
         "affectedByWorld": true,
         "checkInSurface": true
     },
     "headControl": {
-        "$type": "ConfigHeadControl",
+        "$type": "ConfigHeadControl",//动作组
         "useHeadControl": true,
         "FNPAIFFNEEA": [
             "NormalStandby",

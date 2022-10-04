@@ -61,7 +61,7 @@
     "die": {
       "hasAnimatorDie": true,
       "dieEndTime": 1.5,
-      "dieForceDisappearTime": 2.5,
+      "dieForceDisappearTime": 5.0,
       "dieDisappearEffect": "Eff_Death_Avatar_Common",
       "dieShaderData": "AvatarDie",
       "useRagDoll": true,
@@ -144,7 +144,7 @@
           "attackProperty": {
             "damagePercentage": 0.4300000071525574,
             "damagePercentageRatio": 0.0,
-            "elementType": "Water",
+            "elementType": "Fire",
             "elementDurability": 25.0,
             "strikeType": "Slash",
             "enBreak": 52.64,

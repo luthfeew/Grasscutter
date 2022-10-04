@@ -8,8 +8,8 @@
                 "_type": "TALK_ROLE_NPC",
                 "_id": "10215"
             },
-            "talkContentTextMapHash": 835596910,
-            "talkRoleNameTextMapHash": 1492832529,
+            "talkContentTextMapHash": 835596910,//地水火风，领我敕命。再造四大，重塑五行。
+            "talkRoleNameTextMapHash": 1492832529,//合成台
             "talkAssetPath": "",
             "talkAssetPathAlter": "",
             "talkAudioName": "",

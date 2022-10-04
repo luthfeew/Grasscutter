@@ -577,14 +577,48 @@
                     "type": "QUEST_EXEC_UNLOCK_POINT",
                     "param": [
                         "3",
-                        "442"
+                        "471"
                     ]
                 },
                 {
                     "type": "QUEST_EXEC_UNLOCK_AREA",
                     "param": [
                         "3",
-                        "19"
+                        "24"
+                    ]
+                }
+            ],
+            "versionBegin": "",
+            "versionEnd": ""
+        },
+        {
+            "subId": 30318,
+            "mainId": 303,
+            "order": 17,
+            "showType": "QUEST_HIDDEN",
+            "finishCond": [
+                {
+                    "type": "QUEST_CONTENT_COMPLETE_TALK",
+                    "param": [
+                        30318,
+                        0
+                    ]
+                }
+            ],
+            "guide": {},
+            "finishExec": [
+                {
+                    "type": "QUEST_EXEC_UNLOCK_POINT",
+                    "param": [
+                        "3",
+                        "471"
+                    ]
+                },
+                {
+                    "type": "QUEST_EXEC_UNLOCK_AREA",
+                    "param": [
+                        "3",
+                        "24"
                     ]
                 },
                 {

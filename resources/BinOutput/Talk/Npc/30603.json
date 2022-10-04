@@ -13,7 +13,7 @@
                 "_type": "TALK_ROLE_NPC",
                 "_id": "1002"
             },
-            "talkContentTextMapHash": 305590555,
+            "talkContentTextMapHash": 305590555,//要和我组队吗？事先声明，我可不会特意配合新手放慢步调喔。
             "talkAssetPath": "",
             "talkAssetPathAlter": "",
             "talkAudioName": "",
@@ -31,7 +31,7 @@
                 "_type": "TALK_ROLE_PLAYER",
                 "_id": ""
             },
-            "talkContentTextMapHash": 2188503763,
+            "talkContentTextMapHash": 2188503763,//琴团长看起来很可靠呢。
             "talkAssetPath": "",
             "talkAssetPathAlter": "",
             "talkAudioName": "",
@@ -49,7 +49,7 @@
                 "_type": "TALK_ROLE_NPC",
                 "_id": "1002"
             },
-            "talkContentTextMapHash": 3553041467,
+            "talkContentTextMapHash": 3553041467,//有琴在，我们就安心了——虽然很想这么说…
             "talkAssetPath": "",
             "talkAssetPathAlter": "",
             "talkAudioName": "",
@@ -67,7 +67,7 @@
                 "_type": "TALK_ROLE_NPC",
                 "_id": "1002"
             },
-            "talkContentTextMapHash": 3898811507,
+            "talkContentTextMapHash": 3898811507,//但实在不能总把这句话挂在嘴边。
             "talkAssetPath": "",
             "talkAssetPathAlter": "",
             "talkAudioName": "",
@@ -85,7 +85,7 @@
                 "_type": "TALK_ROLE_NPC",
                 "_id": "1002"
             },
-            "talkContentTextMapHash": 1720987971,
+            "talkContentTextMapHash": 1720987971,//她总是冲在最前面，我们也希望她能好好休息。
             "talkAssetPath": "",
             "talkAssetPathAlter": "",
             "talkAudioName": "",
@@ -184,7 +184,7 @@
                 "_type": "TALK_ROLE_NPC",
                 "_id": "1002"
             },
-            "talkContentTextMapHash": 1916957675,
+            "talkContentTextMapHash": 1916957675,//嗯，风魔龙的事，一起加把劲吧！
             "talkAssetPath": "",
             "talkAssetPathAlter": "",
             "talkAudioName": "",
