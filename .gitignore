@@ -64,9 +64,8 @@ tmp/
 /*.jar
 /*.sh
 
-GM Handbook*.txt
+/GM Handbook
 config.json
-mitmdump.exe
 mongod.exe
 
 gacha-mapping.js
